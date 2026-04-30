@@ -1,0 +1,10 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+target/
+.idea/
+*.iml
+.vscode/
+bin/
